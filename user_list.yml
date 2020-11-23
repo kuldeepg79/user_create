@@ -1,0 +1,10 @@
+---
+- users:
+  - name: ravi
+    first: Ravi
+    last: kumar
+    uid: 1010
+  - name: shyam
+    first: Shyam
+    last: kumar
+    uid: 1011
